@@ -1,4 +1,4 @@
-# 
+# elite Polymarket Plugin | sentiment-analysis + volume-analysis offers the most advanced Polymarket plugin, with sentiment-analysis and volume-analysis. Ideal for professional
 
 
 
